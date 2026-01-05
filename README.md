@@ -12,7 +12,7 @@ Hello! I'm Saurabh Kumar, a CS student with a strong interest in Machine Learnin
 ![](https://nirzak-streak-stats.vercel.app/?user=SA9572&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SA9572&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophie
 ![](https://github-profile-trophy.vercel.app/?username=SA9572&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
